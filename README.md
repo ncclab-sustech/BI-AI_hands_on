@@ -19,7 +19,7 @@ Have you used command line/terminal and Anaconda before?
 
 Simply click on the following link to open a [mybinder](https://mybinder.org/) application by clicking the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bbpi2/cnn-pytorch-tutorial-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fbbpi2%252Fcnn-pytorch-tutorial%26urlpath%3Dlab%252Ftree%252Fcnn-pytorch-tutorial%252Fnotebooks%252F0_Welcome.ipynb%26branch%3Dmain)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kaxnn/BI-AI_hands_on/main?labpath=notebooks)
 
 *Note: This may take several minutes to open.*
 
