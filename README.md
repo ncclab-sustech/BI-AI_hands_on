@@ -19,7 +19,7 @@ Have you used command line/terminal and Anaconda before?
 
 Simply click on the following link to open a [mybinder](https://mybinder.org/) application by clicking the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kaxnn/BI-AI_hands_on/main?labpath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncclab-sustech/BI-AI_hands_on/main?labpath=notebooks)
 
 *Note: This may take several minutes to open.*
 
